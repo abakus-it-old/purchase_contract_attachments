@@ -1,7 +1,6 @@
 {
     'name': "Attachments on purchase contracts",
     'version': '1.0',
-    'depends': ['account_analytic_purchase_contract_2'],
     'author': "Valentin THIRION, AbAKUS it-solutions SARL",
     'website': "http://www.abakusitsolutions.eu",
     'category': 'Purchase',
